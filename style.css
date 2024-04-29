@@ -1,0 +1,14 @@
+body{background: #3b444b; color: #fbceb1;}
+.nav {--bs-nav-link-color: #fbceb1; --bs-nav-pills-link-active-bg: #b34600;}
+.text-body-secondary {color: #ffb484!important;}
+.logos {width:6em;}
+.logogs{margin-left:4vw; border:solid; border-width:0vh; border-radius:1vw; border-color:transparent;}
+.text-body-emphasis {color:#ff8f47!important;}
+.text-bg-primary {background-color: #b34600!important;}
+.text-start{margin-left: 11vw;}
+.btn:hover {background-color: #e15800; border-color: #e15800; }
+.btn-primary {--bs-btn-bg: #b34600; --bs-btn-border-color: #b34600; --bs-btn-hover-bg: #b34600; --bs-btn-hover-border-color: #b34600; --bs-btn-active-bg: #b34600; }
+a.icon-link{color:#e15800; text-decoration-color: #e15800;}
+a:hover { color: #fbceb1; text-decoration-color: #fbceb1;}
+.nav-link:hover{color:#ff9855!important;}
+.heroes {margin-top: 5vh; margin-bottom: 2vh;}
